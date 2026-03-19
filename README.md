@@ -1,4 +1,4 @@
-# UAE Real Estate Competitor Analysis & Positioning (2023–2025)
+# Real Estate Competitor Analysis & Positioning (2023–2025)
 
 Benchmarking major developers (Emaar, DAMAC, Aldar, Sobha, etc.) in Dubai & Abu Dhabi → uncovering gaps in mid-tier segment for first-time buyers
 
