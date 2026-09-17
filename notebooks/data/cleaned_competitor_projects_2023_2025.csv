@@ -1,0 +1,81 @@
+project_id,developer,emirate,area,property_type,status,launch_year,handover_year,avg_pps_aed,sustainability_score,first_time_focus,total_units_planned,project_name,clipped_price,clipped_units,handover_reliability_score,pps_normalized,pps_score,first_time_appeal_score,sustainability_strength,positioning_index
+1,Emaar,Dubai,Palm Jumeirah,Apartment,Ready,2024,2024,2659.0,0,0,500,Emaar Bay 32,0,0,10.0,0.7563352826510721,2.436647173489279,1.0,0.0,4.0
+2,DAMAC,Dubai,Jumeirah Village Circle (JVC),Apartment,Ready,2025,2025,1331.0,0,0,500,DAMAC Pinnacle 12,0,0,10.0,0.10916179337231968,8.908382066276804,3.6,0.0,4.9
+3,Emaar,Dubai,Business Bay,Apartment,Off-plan,2024,2025,2027.0,0,0,500,Emaar Residences 12,0,0,7.0,0.44834307992202727,5.516569200779728,2.2,0.0,3.5
+4,Emaar,Dubai,Business Bay,Apartment,Off-plan,2024,2025,1928.0,0,0,500,Emaar Pinnacle 26,0,0,7.0,0.40009746588693956,5.999025341130604,2.4,0.0,3.6
+5,Omniyat,Dubai,Arjan,Villa,Off-plan,2025,2025,1407.0,0,0,500,Omniyat Gardens 58,0,0,7.0,0.14619883040935672,8.538011695906434,3.4,0.0,3.9
+6,Emaar,Abu Dhabi,Saadiyat Island,Apartment,Off-plan,2023,2025,2696.0,3,0,576,Emaar Hills 90,0,0,10.0,0.7743664717348928,2.256335282651072,3.9,10.0,7.6
+7,Ellington,Abu Dhabi,Al Raha Beach,Apartment,Off-plan,2025,2025,1662.0,2,0,500,Ellington Hills 28,0,0,7.0,0.27046783625730997,7.2953216374269,4.9,6.7,6.1
+8,Binghatti,Dubai,Downtown Dubai,Apartment,Off-plan,2023,2025,2399.0,2,0,500,Binghatti Tower 12,0,0,10.0,0.6296296296296297,3.7037037037037033,3.5,6.7,6.6
+9,Binghatti,Dubai,Jumeirah Village Circle (JVC),Apartment,Off-plan,2025,2025,1315.0,1,1,500,Binghatti Crest 78,0,0,7.0,0.10136452241715399,8.98635477582846,7.6,3.3,6.2
+10,Emaar,Abu Dhabi,Yas Island,Apartment,Off-plan,2023,2025,1942.0,0,1,500,Emaar Park 69,0,0,10.0,0.40692007797270957,5.930799220272904,5.4,0.0,5.5
+11,Omniyat,Dubai,Jumeirah Village Circle (JVC),Apartment,Off-plan,2025,2025,1768.0,2,1,500,Omniyat Tower 71,0,0,7.0,0.32212475633528265,6.7787524366471725,7.7,6.7,7.1
+12,Binghatti,Dubai,Jumeirah Village Circle (JVC),Apartment,Off-plan,2023,2025,1210.0,0,0,500,Binghatti Living 25,0,0,10.0,0.05019493177387914,9.498050682261209,3.8,0.0,5.0
+13,Emaar,Dubai,Business Bay,Townhouse,Off-plan,2024,2025,2083.0,2,0,500,Emaar Gardens 99,0,0,7.0,0.4756335282651072,5.243664717348928,4.1,6.7,5.9
+14,DAMAC,Abu Dhabi,Yas Island,Apartment,Off-plan,2024,2025,1716.0,0,1,500,DAMAC Gardens 13,0,0,7.0,0.29678362573099415,7.0321637426900585,5.8,0.0,4.8
+15,Nakheel,Dubai,Arjan,Villa,Off-plan,2023,2025,1503.0,0,1,500,Nakheel Crest 21,0,0,10.0,0.19298245614035087,8.070175438596491,6.2,0.0,5.8
+16,Sobha,Abu Dhabi,Al Reem Island,Apartment,Off-plan,2024,2025,1821.0,2,0,500,Sobha Bay 90,0,0,7.0,0.347953216374269,6.52046783625731,4.6,6.7,6.0
+17,DAMAC,Dubai,Downtown Dubai,Apartment,Off-plan,2023,2025,2630.0,0,0,601,DAMAC Living 82,0,0,10.0,0.7422027290448343,2.577972709551657,1.0,0.0,4.1
+18,Sobha,Dubai,Downtown Dubai,Apartment,Ready,2024,2024,2722.0,0,0,500,Sobha Hills 60,0,0,10.0,0.7870370370370371,2.129629629629629,0.9,0.0,4.0
+19,Sobha,Dubai,Dubai Hills Estate,Townhouse,Off-plan,2024,2025,2025.0,2,0,500,Sobha Crest 99,0,0,7.0,0.4473684210526316,5.526315789473683,4.2,6.7,5.9
+20,Sobha,Dubai,Business Bay,Townhouse,Off-plan,2025,2025,2033.0,2,0,500,Sobha Residences 41,0,0,7.0,0.4512670565302144,5.487329434697856,4.2,6.7,5.9
+21,DAMAC,Dubai,Jumeirah Village Circle (JVC),Apartment,Off-plan,2023,2025,1568.0,1,0,500,DAMAC Gardens 73,0,0,10.0,0.2246588693957115,7.753411306042885,4.1,3.3,5.9
+22,Binghatti,Dubai,Downtown Dubai,Apartment,Off-plan,2025,2025,2379.0,2,0,500,Binghatti Gardens 84,0,0,7.0,0.6198830409356725,3.8011695906432754,3.5,6.7,5.7
+23,Nakheel,Dubai,Dubai Hills Estate,Apartment,Off-plan,2025,2025,1697.0,1,1,500,Nakheel Hills 34,0,0,7.0,0.2875243664717349,7.124756335282651,6.8,3.3,6.0
+24,Ellington,Dubai,Business Bay,Apartment,Ready,2023,2024,1943.0,2,0,500,Ellington Living 55,0,0,10.0,0.4074074074074074,5.925925925925926,4.4,6.7,6.9
+25,Omniyat,Dubai,Downtown Dubai,Apartment,Off-plan,2023,2025,3105.0,3,0,500,Omniyat Crest 29,0,0,10.0,0.9736842105263158,0.2631578947368418,3.1,10.0,7.2
+26,Aldar,Dubai,Dubai Marina,Apartment,Off-plan,2024,2025,2083.0,0,1,557,Aldar Pinnacle 64,0,0,7.0,0.4756335282651072,5.243664717348928,5.1,0.0,4.6
+27,Emaar,Dubai,Business Bay,Apartment,Ready,2025,2025,2363.0,1,0,500,Emaar Tower 20,0,0,10.0,0.6120857699805068,3.879142300194932,2.6,3.3,5.4
+28,Omniyat,Dubai,Dubai Marina,Townhouse,Off-plan,2025,2025,2492.0,1,0,500,Omniyat Living 9,0,0,7.0,0.6749512670565302,3.250487329434698,2.3,3.3,4.4
+29,Nakheel,Dubai,Downtown Dubai,Apartment,Ready,2023,2023,2675.0,1,0,500,Nakheel Pinnacle 33,0,0,10.0,0.7641325536062378,2.3586744639376223,1.9,3.3,5.1
+30,Emaar,Abu Dhabi,Al Reem Island,Townhouse,Off-plan,2024,2025,1887.0,0,0,500,Emaar Tower 88,0,0,7.0,0.38011695906432746,6.1988304093567255,2.5,0.0,3.6
+31,Ellington,Dubai,Dubai Hills Estate,Townhouse,Off-plan,2024,2025,1657.0,0,1,500,Ellington Crest 15,0,0,7.0,0.2680311890838207,7.319688109161793,5.9,0.0,4.8
+32,Aldar,Abu Dhabi,Yas Island,Villa,Off-plan,2025,2025,1710.0,1,0,500,Aldar Park 1,0,0,7.0,0.29385964912280704,7.06140350877193,3.8,3.3,4.9
+33,Ellington,Dubai,Palm Jumeirah,Apartment,Off-plan,2024,2025,2630.0,0,0,500,Ellington Pinnacle 98,0,0,7.0,0.7422027290448343,2.577972709551657,1.0,0.0,3.1
+34,DAMAC,Dubai,Jumeirah Village Circle (JVC),Apartment,Off-plan,2023,2025,1485.0,1,0,500,DAMAC Bay 82,0,0,10.0,0.18421052631578946,8.157894736842104,4.3,3.3,6.0
+35,Sobha,Dubai,Palm Jumeirah,Villa,Ready,2023,2023,2511.0,0,0,500,Sobha Hills 48,0,0,10.0,0.6842105263157895,3.1578947368421053,1.3,0.0,4.1
+36,Emaar,Abu Dhabi,Al Raha Beach,Apartment,Off-plan,2023,2025,1987.0,0,0,769,Emaar Living 42,0,0,10.0,0.42884990253411304,5.71150097465887,2.3,0.0,4.8
+37,DAMAC,Dubai,Business Bay,Apartment,Ready,2025,2025,1991.0,0,0,500,DAMAC Crest 40,0,0,10.0,0.43079922027290446,5.692007797270955,2.3,0.0,4.5
+38,Sobha,Dubai,Dubai Hills Estate,Townhouse,Ready,2024,2024,1693.0,0,1,500,Sobha Living 11,0,0,10.0,0.2855750487329435,7.144249512670565,5.9,0.0,5.7
+39,Nakheel,Dubai,Downtown Dubai,Apartment,Off-plan,2025,2025,3035.0,2,0,500,Nakheel Tower 98,0,0,7.0,0.9395711500974658,0.6042884990253417,2.2,6.7,5.2
+40,Aldar,Dubai,Business Bay,Apartment,Off-plan,2023,2025,1984.0,0,0,520,Aldar Hills 85,0,0,10.0,0.4273879142300195,5.726120857699806,2.3,0.0,4.5
+41,Aldar,Dubai,Dubai Marina,Apartment,Off-plan,2024,2025,2275.0,1,0,500,Aldar Bay 68,0,0,7.0,0.5692007797270955,4.307992202729045,2.7,3.3,4.5
+42,Omniyat,Dubai,Dubai Hills Estate,Apartment,Off-plan,2024,2025,2131.0,1,0,500,Omniyat Gardens 70,0,0,7.0,0.49902534113060426,5.009746588693957,3.0,3.3,4.6
+43,Sobha,Abu Dhabi,Al Raha Beach,Apartment,Off-plan,2024,2025,1622.0,1,0,500,Sobha Bay 52,0,0,7.0,0.25097465886939574,7.490253411306043,4.0,3.3,5.0
+44,Binghatti,Abu Dhabi,Saadiyat Island,Apartment,Off-plan,2023,2025,2013.0,0,0,500,Binghatti Park 67,0,0,10.0,0.4415204678362573,5.584795321637427,2.2,0.0,4.4
+45,Sobha,Dubai,Dubai Hills Estate,Apartment,Ready,2023,2025,1793.0,0,1,500,Sobha Gardens 9,0,0,10.0,0.33430799220272905,6.6569200779727105,5.7,0.0,5.6
+46,Sobha,Dubai,Palm Jumeirah,Apartment,Off-plan,2025,2025,3041.0,1,1,500,Sobha Living 29,0,0,7.0,0.942495126705653,0.5750487329434695,4.2,3.3,5.0
+47,Emaar,Dubai,Jumeirah Village Circle (JVC),Apartment,Off-plan,2025,2025,1786.0,0,0,500,Emaar Gardens 9,0,0,7.0,0.3308966861598441,6.691033138401559,2.7,0.0,3.7
+48,Binghatti,Abu Dhabi,Yas Island,Apartment,Off-plan,2024,2025,1329.0,0,1,500,Binghatti Tower 66,0,0,7.0,0.10818713450292397,8.918128654970761,6.6,0.0,5.1
+49,Nakheel,Dubai,Palm Jumeirah,Townhouse,Off-plan,2024,2025,3082.0,3,1,500,Nakheel Gardens 70,0,0,7.0,0.9624756335282652,0.3752436647173485,6.2,10.0,7.4
+50,Nakheel,Dubai,Palm Jumeirah,Apartment,Off-plan,2024,2025,3018.0,0,0,500,Nakheel Gardens 61,0,0,7.0,0.9312865497076024,0.6871345029239762,0.3,0.0,2.9
+51,Sobha,Abu Dhabi,Yas Island,Villa,Off-plan,2023,2025,1598.0,0,0,500,Sobha Tower 13,0,0,10.0,0.23927875243664717,7.607212475633528,3.0,0.0,4.7
+52,Binghatti,Abu Dhabi,Saadiyat Island,Apartment,Off-plan,2023,2025,2125.0,1,0,500,Binghatti Waves 53,0,0,10.0,0.49610136452241715,5.038986354775829,3.0,3.3,5.5
+53,Emaar,Dubai,Business Bay,Apartment,Off-plan,2025,2025,2193.0,1,0,500,Emaar Tower 8,0,0,7.0,0.5292397660818714,4.707602339181286,2.9,3.3,4.6
+54,Binghatti,Dubai,Jumeirah Village Circle (JVC),Apartment,Off-plan,2024,2025,1458.0,2,1,500,Binghatti Tower 32,0,0,7.0,0.17105263157894737,8.289473684210527,8.3,6.7,7.3
+55,Nakheel,Dubai,Jumeirah Village Circle (JVC),Apartment,Ready,2024,2024,1797.0,3,1,500,Nakheel Hills 55,0,0,10.0,0.3362573099415205,6.637426900584796,8.7,10.0,9.2
+56,Nakheel,Dubai,Jumeirah Village Circle (JVC),Villa,Off-plan,2023,2025,1392.0,0,1,500,Nakheel Gardens 10,0,0,10.0,0.1388888888888889,8.61111111111111,6.4,0.0,5.9
+57,DAMAC,Dubai,Jumeirah Village Circle (JVC),Apartment,Ready,2025,2025,1389.0,1,0,500,DAMAC Residences 84,0,0,10.0,0.13742690058479531,8.625730994152047,4.5,3.3,6.1
+58,Emaar,Dubai,Dubai Hills Estate,Apartment,Off-plan,2024,2025,1841.0,0,0,500,Emaar Tower 97,0,0,7.0,0.35769980506822613,6.423001949317739,2.6,0.0,3.7
+59,Aldar,Dubai,Palm Jumeirah,Villa,Off-plan,2023,2025,3159.0,3,0,695,Aldar Waves 63,0,0,10.0,1.0,0.0,3.0,10.0,7.5
+60,Omniyat,Dubai,Dubai Marina,Villa,Off-plan,2023,2025,2435.0,0,0,500,Omniyat Residences 22,0,0,10.0,0.6471734892787524,3.528265107212476,1.4,0.0,4.1
+61,Omniyat,Dubai,Dubai Marina,Villa,Off-plan,2023,2025,2426.0,0,0,500,Omniyat Bay 59,0,0,10.0,0.6427875243664717,3.572124756335283,1.4,0.0,4.1
+62,Nakheel,Dubai,Palm Jumeirah,Townhouse,Off-plan,2025,2025,3016.0,3,0,500,Nakheel Hills 25,0,0,7.0,0.9303118908382066,0.6968810916179335,3.3,10.0,6.4
+63,Emaar,Dubai,Dubai Marina,Apartment,Off-plan,2023,2025,2153.0,3,0,500,Emaar Living 95,0,0,10.0,0.5097465886939572,4.902534113060428,5.0,10.0,7.9
+64,Binghatti,Abu Dhabi,Saadiyat Island,Villa,Off-plan,2024,2025,2148.0,3,0,500,Binghatti Residences 7,0,0,7.0,0.5073099415204678,4.926900584795321,5.0,10.0,7.0
+65,Aldar,Dubai,Arjan,Villa,Off-plan,2025,2025,1644.0,3,1,500,Aldar Residences 66,0,0,7.0,0.26169590643274854,7.383040935672515,9.0,10.0,8.4
+66,Aldar,Dubai,Dubai Hills Estate,Apartment,Off-plan,2025,2025,1980.0,0,1,500,Aldar Tower 77,0,0,7.0,0.42543859649122806,5.745614035087719,5.3,0.0,4.6
+67,Sobha,Dubai,Arjan,Apartment,Off-plan,2025,2025,1445.0,1,0,500,Sobha Waves 16,0,0,7.0,0.16471734892787523,8.352826510721247,4.3,3.3,5.1
+68,Sobha,Dubai,Palm Jumeirah,Townhouse,Off-plan,2024,2025,2825.0,1,1,500,Sobha Living 77,0,0,7.0,0.8372319688109162,1.6276803118908378,4.7,3.3,5.2
+69,DAMAC,Dubai,Arjan,Apartment,Off-plan,2024,2025,1160.0,0,0,735,DAMAC Waves 85,0,0,7.0,0.025828460038986353,9.741715399610136,3.9,0.0,4.4
+70,Binghatti,Abu Dhabi,Al Reem Island,Apartment,Off-plan,2023,2025,1436.0,0,0,500,Binghatti Bay 27,0,0,10.0,0.16033138401559455,8.396686159844055,3.4,0.0,4.8
+71,Binghatti,Dubai,Palm Jumeirah,Apartment,Off-plan,2024,2025,2725.0,3,0,500,Binghatti Gardens 34,0,0,7.0,0.7884990253411306,2.115009746588694,3.8,10.0,6.6
+72,Ellington,Dubai,Dubai Hills Estate,Villa,Off-plan,2023,2025,2022.0,3,0,500,Ellington Park 41,0,0,10.0,0.44590643274853803,5.540935672514619,5.2,10.0,8.0
+73,DAMAC,Dubai,Palm Jumeirah,Townhouse,Off-plan,2025,2025,2723.0,0,0,719,DAMAC Residences 59,0,0,7.0,0.7875243664717348,2.1247563352826515,0.8,0.0,3.3
+74,DAMAC,Dubai,Dubai Hills Estate,Apartment,Off-plan,2025,2025,2339.0,3,0,624,DAMAC Tower 69,0,0,7.0,0.6003898635477583,3.9961013645224175,4.6,10.0,7.0
+75,Ellington,Dubai,Dubai Hills Estate,Apartment,Off-plan,2023,2025,1861.0,2,0,500,Ellington Hills 45,0,0,10.0,0.36744639376218324,6.325536062378168,4.5,6.7,6.9
+76,Sobha,Abu Dhabi,Saadiyat Island,Apartment,Off-plan,2025,2025,2467.0,1,0,500,Sobha Crest 37,0,0,7.0,0.6627680311890838,3.372319688109162,2.3,3.3,4.4
+77,Ellington,Dubai,Arjan,Apartment,Ready,2024,2024,1107.0,1,0,500,Ellington Living 84,0,0,10.0,0.0,10.0,5.0,3.3,6.2
+78,Ellington,Abu Dhabi,Al Raha Beach,Apartment,Off-plan,2025,2025,1497.0,1,1,500,Ellington Tower 18,0,0,7.0,0.19005847953216373,8.099415204678364,7.2,3.3,6.1
+79,DAMAC,Dubai,Arjan,Apartment,Ready,2023,2025,1346.0,0,1,500,DAMAC Pinnacle 20,0,0,10.0,0.11647173489278752,8.835282651072125,6.5,0.0,5.9
+80,Sobha,Dubai,Dubai Marina,Apartment,Off-plan,2024,2025,2665.0,3,0,500,Sobha Crest 27,0,0,7.0,0.7592592592592593,2.407407407407407,4.0,10.0,6.7
