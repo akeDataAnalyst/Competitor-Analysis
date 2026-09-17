@@ -1,9 +1,7 @@
 # **Real Estate Competitor Analysis & Positioning**
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Benchmarking major developers (Emaar, DAMAC, Aldar, Sobha, etc.) in Dubai & Abu Dhabi → uncovering gaps in mid-tier segment for first-time buyers
-
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## **Project Focus**  
